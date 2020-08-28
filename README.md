@@ -1,13 +1,13 @@
 # Como debugar Python Plugins QGIS com o Liclipse
 
-
-
+[![QGIS Software](https://img.shields.io/badge/QGIS%20Software-3.10.8-green)](https://qgis.org/en/site/)
 [![Python Plugins QGIS](https://img.shields.io/badge/QGIS%20Plugins-latest-green)](https://plugins.qgis.org/)
-[![LeafLet](https://img.shields.io/badge/LiClipse-6.3.0-green)](https://www.liclipse.com/index.html)
+[![Python QT](https://img.shields.io/badge/PyQt-5.15.0-green)](https://pypi.org/project/PyQt5/)
+[![LiClipse](https://img.shields.io/badge/LiClipse-6.3.0-green)](https://www.liclipse.com/index.html)
 
-Como fazer debug no desenvolvimento de plugins no QGIS utilizando a IDE Liclipse.
+A maneira mais eficaz para encontrar defeitos em um software é a partir de testes, porém alguns problemas correntes podem aparecer durante o desenvolvimento de software que podem ser facilmente identificados pelo processo de Debug. Como fazer debug no desenvolvimento de plugins no QGIS utilizando a IDE LiClipse utilizando Linux.
 
-1. Install liclipse;
+1. O primeiro passo é a instalação do LiClipse que pode ser baixado e instalado por este link https://www.liclipse.com/download.html;
 
 2. Move the code to QGIS home plugins;
 
